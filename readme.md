@@ -3,10 +3,12 @@ simple_ollama_rag is a simple interface for using Ollama with LangChain's RAGCha
 ## Installation
 
 ```bash
-pip install simple_ollama_rag
+git clone https://github.com/linkage001/simple_ollama_rag.git
+cd simple_ollama_rag
+pip install -r requirements.txt
 ```
 
-## Usage (db has a copy of the salmon article from Wikipedia)
+## Usage (db on my local had a copy of the salmon article from Wikipedia)
 
 Create the db and rag_data directories. Put your text files in the rag_data folder.
 
@@ -49,6 +51,7 @@ Output:
 ```output
  There are several species of fish that are colloquially called "salmon" but are not true salmon. The Danube salmon, huchen is a large freshwater salmonid closely related (from the same subfamily) to the seven species of salmon above, but others are fishes of unrelated orders, given the common name "salmon" simply due to similar shapes, behaviors and niches occupied.
 ```
+You can create different databases and rag folders to create different experts.
 
 ## License
 
