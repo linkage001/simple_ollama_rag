@@ -1,0 +1,222 @@
+
+
+The aquaculture of salmonids is the farming and harvesting of salmonid fish under controlled conditions for both commercial and recreational purposes. Salmonids (particularly salmon and rainbow trout), along with carp and tilapia, are the three most important fish groups in aquaculture.[2] The most commonly commercially farmed salmonid is the Atlantic salmon (Salmo salar).
+
+In the United States, Chinook salmon and rainbow trout are the most commonly farmed salmonids for recreational and subsistence fishing through the National Fish Hatchery System.[3] In Europe, brown trout are the most commonly reared fish for recreational restocking.[4] Commonly farmed non-salmonid fish groups include tilapia, catfish, black sea bass and bream. In 2007, the aquaculture of salmonids was worth USD $10.7 billion globally. Salmonid aquaculture production grew over ten-fold during the 25 years from 1982 to 2007. In 2012, the leading producers of salmonids were Norway, Chile, Scotland and Canada.[5]
+
+Much controversy exists about the ecological and health impacts of intensive salmonids aquaculture. Of particular concern are the impacts on wild salmon and other marine life.
+Methods[edit]
+Assynt salmon hatchery, near Inchnadamph in the Scottish Highlands
+Very young fertilised salmon eggs, notice the developing eyes and vertebral column.
+Salmon egg hatching: In about 24 hr, it will be a fry without the yolk sac.
+
+The aquaculture or farming of salmonids can be contrasted with capturing wild salmonids using commercial fishing techniques. However, the concept of "wild" salmon as used by the Alaska Seafood Marketing Institute includes stock enhancement fish produced in hatcheries that have historically been considered ocean ranching. The percentage of the Alaska salmon harvest resulting from ocean ranching depends upon the species of salmon and location.[6][not specific enough to verify] Methods of salmonid aquaculture originated in late 18th-century fertilization trials in Europe. In the late 19th century, salmon hatcheries were used in Europe and North America. From the late 1950s, enhancement programs based on hatcheries were established in the United States, Canada, Japan, and the USSR. The contemporary technique using floating sea cages originated in Norway in the late 1960s.[7]
+
+Salmonids are usually farmed in two stages and in some places maybe more. First, the salmon are hatched from eggs and raised on land in freshwater tanks. Increasing the accumulated thermal units of water during incubation reduces time to hatching.[8] When they are 12 to 18 months old, the smolt (juvenile salmon) are transferred to floating sea cages or net pens anchored in sheltered bays or fjords along a coast. This farming in a marine environment is known as mariculture. There they are fed pelleted feed for another 12 to 24 months, when they are harvested.[9]
+
+Norway produces 33% of the world's farmed salmonids, and Chile produces 31%.[10] The coastlines of these countries have suitable water temperatures and many areas well protected from storms. Chile is close to large forage fisheries which supply fish meal for salmon aquaculture. Scotland and Canada are also significant producers;[11][failed verification] and it was reported in 2012 that the Norwegian government at that time controlled a significant fraction of the Canadian industry.[12]
+
+Modern salmonid farming systems are intensive. Their ownership is often under the control of huge agribusiness corporations, operating mechanized assembly lines on an industrial scale. In 2003, nearly half of the world’s farmed salmon was produced by just five companies.[13]
+Hatcheries[edit]
+
+Modern commercial hatcheries for supplying salmon smolts to aquaculture net pens have been shifting to recirculating aquaculture systems (RAS)s where the water is recycled within the hatchery. This allows location of the hatchery to be independent of a significant fresh water supply and allows economical temperature control to both speed up and slow down the growth rate to match the needs of the net pens.
+
+Conventional hatchery systems operate flow-through, where spring water or other water sources flow into the hatchery. The eggs are then hatched in trays and the salmon smolts are produced in raceways. The waste products from the growing salmon fry and the feed are usually discharged into the local river. Conventional flow-through hatcheries, for example the majority of Alaska's enhancement hatcheries, use more than 100 tonnes (16,000 st) of water to produce a kg of smolts.
+
+An alternative method to hatching in freshwater tanks is to use spawning channels. These are artificial streams, usually parallel to an existing stream with concrete or rip-rap sides and gravel bottoms. Water from the adjacent stream is piped into the top of the channel, sometimes via a header pond to settle out sediment. Spawning success is often much better in channels than in adjacent streams due to the control of floods which in some years can wash out the natural redds. Because of the lack of floods, spawning channels must sometimes be cleaned out to remove accumulated sediment. The same floods which destroy natural redds also clean them out. Spawning channels preserve the natural selection of natural streams as no temptation exists, as in hatcheries, to use prophylactic chemicals to control diseases. However, exposing fish to wild parasites and pathogens using uncontrolled water supplies, combined with the high cost of spawning channels, makes this technology unsuitable for salmon aquaculture businesses. This type of technology is only useful for stock enhancement programs.
+Sea cages[edit]
+
+Sea cages, also called sea pens or net pens, are usually made of mesh framed with steel or plastic. They can be square or circular, 10 to 32 m (33 to 105 ft) across and 10 m (33 ft) deep, with volumes between 1,000 and 10,000 m3 (35,000 and 353,000 cu ft). A large sea cage can contain up to 90,000 fish.
+
+They are usually placed side by side to form a system called a seafarm or seasite, with a floating wharf and walkways along the net boundaries. Additional nets can also surround the seafarm to keep out predatory marine mammals. Stocking densities range from 8 to 18 kg (18 to 40 lb)/m3 for Atlantic salmon and 5 to 10 kilograms (11 to 22 lb)/m3 for Chinook salmon.[9][14]
+
+In contrast to closed or recirculating systems, the open net cages of salmonid farming lower production costs, but provide no effective barrier to the discharge of wastes, parasites, and disease into the surrounding coastal waters.[13] Farmed salmon in open net cages can escape into wild habitats, for example, during storms.
+
+An emerging wave in aquaculture is applying the same farming methods used for salmonids to other carnivorous finfish species, such as cod, bluefin tuna, halibut, and snapper. However, this is likely to have the same environmental drawbacks as salmon farming.[13][15]
+
+A second emerging wave in aquaculture is the development of copper alloys as netting materials. Copper alloys have become important netting materials because they are antimicrobial (i.e., they destroy bacteria, viruses, fungi, algae, and other microbes), so they prevent biofouling (i.e., the undesirable accumulation, adhesion, and growth of microorganisms, plants, algae, tubeworms, barnacles, mollusks, and other organisms). By inhibiting microbial growth, copper alloy aquaculture cages avoid costly net changes that are necessary with other materials. The resistance of organism growth on copper alloy nets also provides a cleaner and healthier environment for farmed fish to grow and thrive.
+Feeding[edit]
+
+With the amount of worldwide fish meal production being almost a constant amount for the last 30+ years and at maximum sustainable yield, much of the fish meal market has shifted from chicken and pig feed to fish and shrimp feeds as aquaculture has grown in this time.[16]
+
+Work continues on developing salmonid diet made from concentrated plant protein.[17] As of 2014, an enzymatic process can be used to lower the carbohydrate content of barley, making it a high-protein fish feed suitable for salmon.[18] Many other substitutions for fish meal are known, and diets containing zero fish meal are possible. For example, a planned closed-containment salmon fish farm in Scotland uses ragworms, algae, and amino acids as feed.[19] Some of the eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA) in Omega-3 fatty acids may be replaced by land-based (non-marine) algae oil, reducing the harvest of wild fish as fish meal.[20]
+
+However, commercial economic animal diets are determined by least-cost linear programming models that are effectively competing with similar models for chicken and pig feeds for the same feed ingredients, and these models show that fish meal is more useful in aquatic diets than in chicken diets, where they can make the chickens taste like fish.[21] Unfortunately, this substitution can result in lower levels of the highly valued omega-3 content in the farmed product. However, when vegetable oil is used in the growing diet as an energy source and a different finishing diet containing high omega-3 content fatty acids from either fish oil, algae oils, or some vegetable oils are used a few months before harvest, this problem is eliminated.[22]
+
+On a dry-dry basis, 2–4 kg of wild-caught fish are needed to produce 1 kg of salmon.[23] The ratio may be reduced if non-fish sources are added.[20] Wild salmon require about 10 kg of forage fish to produce 1 kg of salmon, as part of the normal trophic level energy transfer. The difference between the two numbers is related to farmed salmon feed containing other ingredients beyond fish meal and because farmed fish do not expend energy hunting.
+
+In 2017 it was reported that the American company Cargill has been researching and developing alternative feeds with EWOS through its internal COMPASS programs in Norway, resulting in the proprietary RAPID feed blend. These methods studied macronutrient profiles of fish feed based upon geography and season. Using RAPID feed, salmon farms reduced the time to maturity of salmon to about 15 months, in a period one-fifth faster than usual.[24][25]
+Other feed additives[edit]
+
+As of 2008, 50-80% of the world fish oil production is fed to farmed salmonids.[26][27]
+
+Farm raised salmonids are also fed the carotenoids astaxanthin and canthaxanthin, so their flesh colour matches wild salmon, which also contain the same carotenoid pigments from their diet in the wild.[28]
+Harvesting[edit]
+
+Modern harvesting methods are shifting towards using wet-well ships to transport live salmon to the processing plant. This allows the fish to be killed, bled, and filleted before rigor has occurred. This results in superior product quality to the customer, along with more humane processing. To obtain maximum quality, minimizing the level of stress is necessary in the live salmon until actually being electrically and percussively killed and the gills slit for bleeding.[29] These improvements in processing time and freshness to the final customer are commercially significant and forcing the commercial wild fisheries to upgrade their processing to the benefit of all seafood consumers.
+
+An older method of harvesting is to use a sweep net, which operates a bit like a purse seine net. The sweep net is a big net with weights along the bottom edge. It is stretched across the pen with the bottom edge extending to the bottom of the pen. Lines attached to the bottom corners are raised, herding some fish into the purse, where they are netted. Before killing, the fish are usually rendered unconscious in water saturated in carbon dioxide, although this practice is being phased out in some countries due to ethical and product quality concerns. More advanced systems use a percussive-stun harvest system that kills the fish instantly and humanely with a blow to the head from a pneumatic piston. They are then bled by cutting the gill arches and immediately immersing them in iced water. Harvesting and killing methods are designed to minimize scale loss, and avoid the fish releasing stress hormones, which negatively affect flesh quality.[14]
+Wild versus farmed[edit]
+
+Wild salmonids are captured from wild habitats using commercial fishing techniques. Most wild salmonids are caught in North American, Japanese, and Russian fisheries. The following table shows the changes in production of wild salmonids and farmed salmonids over a period of 25 years, as reported by the FAO.[30] Russia, Japan and Alaska all operate major hatchery based stock enhancement programs. The resulting fish hatchery fish are defined as "wild" for FAO and marketing purposes.
+Salmonid production in tonnes by species Species 	1982 	2007 	2013
+Wild 	Farmed 	Wild 	Farmed
+Atlantic salmon 	10,326 	13,265 	2,989 	1,433,708 	2,087,110[31]
+Steelhead 		171,946 		604,695
+Coho salmon 	42,281 	2,921 	17,200 	115,376
+Chinook salmon 	25,147 		8,906 	11,542
+Pink salmon 	170,373 		495,986
+Chum salmon 	182,561 		303,205
+Sockeye salmon 	128,176 		164,222
+Total salmonid production 	1982 	2007
+	tonnes 	percent 	tonnes 	percent
+Wild 	558,864 	75 	992,508 	31
+Farmed 	188,132 	25 	2,165,321 	69
+Overall 	746,996 		3,157,831
+Issues[edit]
+
+The US in their dietary guidelines for 2010 recommends eating 8 ounces per week of a variety of seafood and 12 ounces for lactating mothers, with no upper limits set and no restrictions on eating farmed or wild salmon.[32] In 2018, Canadian dietary guidelines recommended eating at least two servings of fish each week and choosing fish such as char, herring, mackerel, salmon, sardines, and trout.[33]
+
+Currently, much controversy exists about the ecological and health impacts of intensive salmonid aquaculture. Of particular concern are the impacts on wild salmonids and other marine life and on the incomes of commercial salmonid fishermen.[34] However, the 'enhanced' production of salmon juveniles – which for instance lead to a double-digit proportion (20-50%) of the Alaska's yearly ‘wild’ salmon harvest - is not void of controversy, and the Alaska salmon harvest are highly dependent on the operation of Alaska’s Regional Aquaculture Associations. Furthermore, the sustainability of enhanced/hatchery-based ‘wild’ caught salmon has long been hotly debated,[35] both from a scientific and political/marketing perspective. Such debate and positions were central to a 'halt' in the re-certification of Alaska salmon fisheries by the Marine Stewardship Council (MSC) in 2012.[36] The Alaska salmon fisheries subsequently re-attained MSC-certification status; however the heavily hatchery-dependent Prince William Sound (PWS) unit of certification (“one of the most valuable fishing area in the State”[37]) was for several years excluded from the MSC-certification (it remained ‘under assessment’ pending further analysis).
+Disease and parasites[edit]
+
+In 1972, Gyrodactylus, a monogenean parasite, was introduced with live trout and salmon from Sweden (Baltic stocks are resistant to it) into government-operated hatcheries in Norway. From the hatcheries, infected eggs, smolt, and fry were implanted in many rivers with the goal to strengthen the wild salmon stocks, but caused instead devastation to some of the wild salmon populations affected.[38]
+
+In 1984, infectious salmon anemia (ISAv) was discovered in Norway in an Atlantic salmon hatchery. Eighty percent of the fish in the outbreak died. ISAv, a viral disease, is now a major threat to the viability of Atlantic salmon farming. It is now the first of the diseases classified on List One of the European Commission’s fish health regimen. Amongst other measures, this requires the total eradication of the entire fish stock should an outbreak of the disease be confirmed on any farm. ISAv seriously affects salmon farms in Chile, Norway, Scotland, and Canada, causing major economic losses to infected farms.[39] As the name implies, it causes severe anemia of infected fish. Unlike mammals, the red blood cells of fish have ribosomes, and can become infected with viruses. The fish develop pale gills, and may swim close to the water surface, gulping for air. However, the disease can also develop without the fish showing any external signs of illness, the fish maintain a normal appetite, and then they suddenly die. The disease can progress slowly throughout an infected farm, and in the worst cases, death rates may approach 100%. It is also a threat to the dwindling stocks of wild salmon. Management strategies include developing a vaccine and improving genetic resistance to the disease.[40]
+
+In the wild, diseases and parasites are normally at low levels, and kept in check by natural predation on weakened individuals. In crowded net pens, they can become epidemics. Diseases and parasites also transfer from farmed to wild salmon populations. A recent study in British Columbia links the spread of parasitic sea lice from river salmon farms to wild pink salmon in the same river.[13] The European Commission (2002) concluded, "The reduction of wild salmonid abundance is also linked to other factors but there is more and more scientific evidence establishing a direct link between the number of lice-infested wild fish and the presence of cages in the same estuary."[41] It is reported that wild salmon on the west coast of Canada are being driven to extinction by sea lice from nearby salmon farms.[42] These predictions have been disputed by other scientists[43] and recent harvests have indicated that the predictions were in error. In 2011, Scottish salmon farming introduced the use of farmed wrasse for the purpose of cleaning farmed salmon of ectoparasites.[44][45]
+
+Globally, salmon production fell around 9% in 2015, in large part due to acute outbreaks of sea lice in Scotland and Norway.[46][47][48] Lasers are used to reduce lice infections.[49]
+
+In the mid 1980s to the 1990s, bacterial kidney disease (BKD) caused by Renibacterium salmoninarum heavily impacted Chinook hatcheries in Idaho.[50] The disease causes granulomatous inflammation that can lead to abscesses in the liver, spleen, and kidneys.[51]
+Pollution and contaminants[edit]
+
+Salmonid farms are typically sited in marine ecosystems with good water quality, high water exchange rates, current speeds fast enough to prevent pollution of the bottom but slow enough to prevent pen damage, protection from major storms, reasonable water depth, and a reasonable distance from major infrastructure such as ports, processing plants, and logistical facilities such as airports. Logistical considerations are significant, and feed and maintenance labor must be transported to the facility and the product returned. Siting decisions are complicated by complex, politically driven permit problems in many countries that prevents optimal locations for the farms.
+
+In sites without adequate currents, heavy metals can accumulate on the benthos (seafloor) near the salmon farms, particularly copper and zinc.[14]
+
+Contaminants are commonly found in the flesh of farmed and wild salmon.[52] Health Canada in 2002 published measurements of PCBs, dioxins and furans and PDBEs in several varieties of fish. The farmed salmonids population had nearly 3 times the level of PCBs, more than 3 times the level of PDBEs, and nearly twice the level of dioxins and furans seen in the wild population.[53] On the other hand, "Update of the monitoring of levels of dioxins and PCBs in food and feed", a 2012 study from the European Food Safety Authority, stated that farmed salmon and trout contained on average a many times lesser fraction of dioxins and PCBs than wild-caught salmon and trout."[54]
+
+A 2004 study, reported in Science, analysed farmed and wild salmon for organochlorine contaminants. They found the contaminants were higher in farmed salmon. Within the farmed salmon, European (particularly Scottish) salmon had the highest levels, and Chilean salmon the lowest.[55] The FDA and Health Canada have established a tolerance/limit for PCBs in commercial fish of 2000 ppb[56] A follow-up study confirmed this, and found levels of dioxins, chlorinated pesticides, PCBs and other contaminants up to ten times greater in farmed salmon than wild Pacific salmon.[57] On a positive note, further research using the same fish samples used in the previous study, showed that farmed salmon contained levels of beneficial fatty acids that were two to three times higher than wild salmon.[58] A follow-up benefit-risk analysis on salmon consumption balanced the cancer risks with the (n–3) fatty acid advantages of salmon consumption. For this reason, current methods for this type of analysis take into consideration the lipid content of the sample in question. PCBs specifically are lipophilic, so are found in higher concentrations in fattier fish in general,[59] thus the higher level of PCB in the farmed fish is in relation to the higher content of beneficial n–3 and n–6 lipids they contain. They found that recommended levels of (n-3) fatty acid consumption can be achieved eating farmed salmon with acceptable carcinogenic risks, but recommended levels of (n-3) EPA+DHA intake cannot be achieved solely from farmed (or wild) salmon without unacceptable carcinogenic risks.[60] The conclusions of this paper from 2005 were that
+
+    "...consumers should not eat farmed fish from Scotland, Norway and eastern Canada more than three times a year; farmed fish from Maine, western Canada and Washington state no more than three to six times a year; and farmed fish from Chile no more than about six times a year. Wild chum salmon can be consumed safely as often as once a week, pink salmon, Sockeye and Coho about twice a month and Chinook just under once a month."[52]
+
+In 2005, Russia banned importing chilled fish from Norway, after samples of Norwegian farmed fish showed high levels of heavy metals. According to the Russian Minister of Agriculture Aleksey Gordeyev, levels of lead in the fish were 10 to 18 times higher than Russian safety standards and cadmium levels were almost four times higher.[61]
+Pollutants or toxins introduced by pisciculturists[edit]
+
+In 2006, eight Norwegian salmon producers were caught in unauthorized and unlabeled use of nitrite in smoked and cured salmon. Norway applies EU regulations on food additives, according to which nitrite is allowed as a food additive in certain types of meat, but not fish. Fresh salmon was not affected.[62]
+
+Kurt Oddekalv, leader of the Green Warriors of Norway, argues that the scale of fish farming in Norway is unsustainable. Huge volumes of uneaten feed and fish excrement pollute the seabed, while chemicals designed to fight sea lice find their way into the food chain. He says: "If people knew this, they wouldn’t eat salmon", describing the farmed fish as "the most toxic food in the world".[63] Don Staniford—the former scientist turned activist/investigator and head of a small Global Alliance Against Industrial Aquaculture—agrees, saying that a 10-fold increase in the use of some chemicals was seen in the 2016-2017 timeframe. The use of the toxic drug emamectin is rising fast. The levels of chemicals used to kill sea lice have breached environmental safety limits more than 100 times in the last 10 years.[64]
+Impact on wild salmonids[edit]
+
+Farmed salmonids can, and often do, escape from sea cages. If the farmed salmonid is not native, it can compete with native wild species for food and habitat.[65][66] If the farmed salmonid is native, it can interbreed with the wild native salmonids. Such interbreeding can reduce genetic diversity, disease resistance, and adaptability.[67] In 2004, about 500,000 salmon and trout escaped from ocean net pens off Norway. Around Scotland, 600,000 salmon were released during storms.[13] Commercial fishermen targeting wild salmon frequently catch escaped farm salmon. At one stage, in the Faroe Islands, 20 to 40 percent of all fish caught were escaped farm salmon.[68] In 2017, about 263,000 farmed non-native Atlantic salmon escaped from a net in Washington waters in the 2017 Cypress Island Atlantic salmon pen break.[69]
+
+Sea lice, particularly Lepeophtheirus salmonis and various Caligus species, including C. clemensi and C. rogercresseyi, can cause deadly infestations of both farm-grown and wild salmon.[70][71] Sea lice are naturally occurring and abundant ectoparasites which feed on mucus, blood, and skin, and migrate and latch onto the skin of salmon during planktonic nauplii and copepodid larval stages, which can persist for several days.[72][73][74] Large numbers of highly populated, open-net salmon farms can create exceptionally large concentrations of sea lice; when exposed in river estuaries containing large numbers of open-net farms, many young wild salmon are infected, and do not survive as a result.[75][76] Adult salmon may survive otherwise critical numbers of sea lice, but small, thin-skinned juvenile salmon migrating to sea are highly vulnerable. In 2007, mathematical studies of data available from the Pacific coast of Canada indicated the louse-induced mortality of pink salmon in some regions was over 80%.[42] Later that year, in reaction to the 2007 mathematical study mentioned above, Canadian federal fisheries scientists Kenneth Brooks and Simon Jones published a critique titled "Perspectives on Pink Salmon and Sea Lice: Scientific Evidence Fails to Support the Extinction Hypothesis "[77] The time since these studies has shown a general increase in abundance of Pink Salmon in the Broughton Archipelago. Another comment in the scientific literature by Canadian Government Fisheries scientists Brian Riddell and Richard Beamish et al. came to the conclusion that there is no correlation between farmed salmon louse numbers and returns of pink salmon to the Broughton Archipelago. And in relation to the 2007 Krkosek extinction theory: "the data was [sic] used selectively and conclusions do not match with recent observations of returning salmon".[43]
+
+A 2008 meta-analysis of available data shows that salmonid farming reduces the survival of associated wild salmonid populations. This relationship has been shown to hold for Atlantic, steelhead, pink, chum, and coho salmon. The decrease in survival or abundance often exceeds 50%.[78] However, these studies are all correlation analysis and correlation doesn't equal causation, especially when similar salmon declines were occurring in Oregon and California, which have no salmon aquaculture or marine net pens. Independent of the predictions of the failure of salmon runs in Canada indicated by these studies, the wild salmon run in 2010 was a record harvest.[79]
+
+A 2010 study that made the first use of sea lice count and fish production data from all salmon farms on the Broughton Archipelago found no correlation between the farm lice counts and wild salmon survival. The authors conclude that the 2002 stock collapse was not caused by the farm sea lice population: although the farm sea lice population during the out-migration of juvenile pink salmon was greater in 2000 than that of 2001, there was a record salmon returning to spawn in 2001 (from the juveniles in 2000) compared with a 97% collapse in 2002 (from the juveniles in 2001). The authors also note that initial studies had not investigated bacterial and viral causes for the event despite reports of bleeding at the base of the fins, a symptom often associated with infections, but not with sea lice exposure under laboratory conditions. [80]
+
+Wild salmon are anadromous. They spawn inland in fresh water and when young migrate to the ocean where they grow up. Most salmon return to the river where they were born, although some stray to other rivers. Concern exists about of the role of genetic diversity within salmon runs. The resilience of the population depends on some fish being able to survive environmental shocks, such as unusual temperature extremes. The effect of hatchery production on the genetic diversity of salmon is also unclear.[7]
+Genetic modification[edit]
+
+Salmon have been genetically modified in laboratories so they can grow faster. A company, Aqua Bounty Farms, has developed a modified Atlantic salmon which grows nearly twice as fast (yielding a fully grown fish at 16–18 months rather than 30), and is more disease resistant, and cold tolerant. It also requires 10% less food. This was achieved using a chinook salmon gene sequence affecting growth hormones, and a promoter sequence from the ocean pout affecting antifreeze production.[81] Normally, salmon produce growth hormones only in the presence of light. The modified salmon does not switch growth hormone production off. The company first submitted the salmon for FDA approval in 1996.[82] In 2015, FDA has approved the AquAdvantage Salmon for commercial production.[83] A concern with transgenic salmon is what might happen if they escape into the wild. One study, in a laboratory setting, found that modified salmon mixed with their wild cohorts were aggressive in competing, but ultimately failed.[84]
+Impact on wild predatory species[edit]
+
+Sea cages can attract a variety of wild predators which can sometimes become entangled in associated netting, leading to injury or death. In Tasmania, Australian salmon-farming sea cages have entangled white-bellied sea eagles. This has prompted one company, Huon Aquaculture, to sponsor a bird rehabilitation centre and try more robust netting.[85]
+Ecological[edit]
+
+Juvenile farmed Chinook have been shown to have higher rates of predation due to their larger size than wild juveniles upon release into marine environments. Their size correlates with the preferred size of prey for predators like birds, seals, and fish. This may have ecological implications because of the effect on feeding.[86]
+Impact on forage fish[edit]
+
+The use of forage fish for fish meal production has been almost a constant for the last 30 years and at the maximum sustainable yield, while the market for fish meal has shifted from chicken, pig, and pet food to aquaculture diets.[16] This market shift at constant production appears an economic decision implying that the development of salmon aquaculture had no impact on forage fish harvest rates.
+
+Fish do not actually produce omega-3 fatty acids, but instead accumulate them from either consuming microalgae that produce these fatty acids, as is the case with forage fish like herring and sardines, or consuming forage fish, as is the case with fatty predatory fish like salmon. To satisfy this requirement, more than 50% of the world fish oil production is fed to farmed salmon.[26]
+
+In addition, salmon require nutritional intakes of protein, which is often supplied in the form of fish meal as the lowest-cost alternative. Consequently, farmed salmon consume more fish than they generate as a final product, though considerably more preferred as food.
+Salmon Aquaculture Dialogue and ASC Salmon Standard[edit]
+
+In 2004, the World Wide Fund for Nature (WWF)-USA initiated the Salmon Aquaculture Dialogue, one of several Aquaculture Dialogues.[11] The aim of the dialogues was to produce an environmental and social standard for farmed salmon and other species (12 species currently, as of 2018). Since 2012, the standards elaborated by the multi-stakeholder Dialogues were passed-on to the Aquaculture Stewardship Council (ASC) which was created in 2010 to administer and developed them further. The first such standard was the ASC Salmon Standard[87] (June 2012, and revised in 2017 after comprehensive public consultation). The WWF had originally identified what they called "seven key environmental and social impacts", characterised as:
+
+            Benthic impacts and siting: Chemicals and excess nutrients from food and feces associated with salmon farms can disturb the flora and fauna on the ocean bottom (benthos).[88]
+            Chemical inputs: Excessive use of chemicals – such as antibiotics, anti-foulants and pesticides – or the use of banned chemicals can have unintended consequences for marine organisms and human health.[89]
+            Disease/parasites: Viruses and parasites can transfer between farmed and wild fish, as well as among farms.[90][91]
+            Escapes: Escaped farmed salmon can compete with wild fish and interbreed with local wild stocks of the same population, altering the overall pool of genetic diversity.[92]
+            Feed: A growing salmon farming business must control and reduce its dependency upon fishmeal and fishoil – a primary ingredient in salmon feed—so as not to put additional pressure on the world's fisheries. Fish caught to make fishmeal and oil currently represent one-third of the global fish harvest.[93]
+            Nutrient loading and carrying capacity: Excess food and fish waste in the water have the potential to increase the levels of nutrients in the water. This can cause the growth of algae, which consumes oxygen that is meant for other plant and animal life.[94]
+            Social issues: Salmon farming often employs a large number of workers on farms and in processing plants, potentially placing labor practices and worker rights under public scrutiny. Additionally, conflicts can arise among users of the shared coastal environment.
+
+        — World Wide Fund for Nature, [11]
+
+Land-raised salmon[edit]
+
+Recirculating aquaculture systems make it possible to farm salmon entirely on land, which as of 2019 is an ongoing initiative in the industry.[95] However, large farmed salmon companies such as Mowi and Cermaq were not investing in such systems.[96] In the United States, a major investor in the effort was Atlantic Sapphire, which plans to bring salmon raised in Florida to market in 2021.[96][97] Other companies investing in the effort include Nordic Acquafarms[98] and Whole Oceans.[99]
+Species[edit]
+Atlantic salmon[edit]
+Atlantic salmon
+
+In their natal streams, Atlantic salmon are considered a prized recreational fish, pursued by avid fly anglers during its annual runs. At one time, the species supported an important commercial fishery and a supplemental food fishery. However, the wild Atlantic salmon fishery is commercially dead; after extensive habitat damage and overfishing, wild fish make up only 0.5% of the Atlantic salmon available in world fish markets. The rest are farmed, predominantly from aquaculture in Chile, Canada, Norway, Russia, the United Kingdom, and Tasmania.[100]
+
+Atlantic salmon is, by far, the species most often chosen for farming. It is easy to handle, grows well in sea cages, commands a high market value, and adapts well to being farmed away from its native habitats.[7]
+
+Adult male and female fish are anesthetized. Eggs and sperm are "stripped", after the fish are cleaned and cloth dried. Sperm and eggs are mixed, washed, and placed into fresh water. Adults recover in flowing, clean, well-aerated water.[101] Some researchers have studied cryopreservation of the eggs.[102]
+
+Fry are generally reared in large freshwater tanks for 12 to 20 months. Once the fish have reached the smolt phase, they are taken out to sea, where they are held for up to two years. During this time, the fish grow and mature in large cages off the coasts of Canada, the United States, or parts of Europe.[100] Generally, cages are made of two nets; inner nets, which wrap around the cages, hold the salmon while outer nets, which are held by floats, keep predators out.[101]
+
+Many Atlantic salmon escape from cages at sea. Those salmon that further breed tend to lessen the genetic diversity of the species leading to lower survival rates, and lower catch rates. On the West Coast of North America, the non-native salmon could be an invasive threat, especially in Alaska and parts of Canada. This could cause them to compete with native salmon for resources. Extensive efforts are underway to prevent escapes and the potential spread of Atlantic salmon in the Pacific and elsewhere.[103] The risk of Atlantic Salmon becoming a legitimate invasive threat on the Pacific Coast of N. America is questionable in light of both Canadian and American governments deliberately introducing this species by the millions for a 100-year period starting in the 1900s. Despite these deliberate attempts to establish this species on the Pacific coast; no established populations have been reported.[104][105]
+
+In 2007, 1,433,708 tonnes of Atlantic salmon were harvested worldwide with a value of $7.58 billion.[106] Ten years later, in 2017, over 2 million tonnes of farmed Atlantic salmon were harvested.[107]
+Steelhead[edit]
+Rainbow trout
+Male ocean phase steelhead salmon
+
+In 1989, steelhead were reclassified into the Pacific trout as Oncorhynchus mykiss from the former binominals of Salmo gairdneri (Columbia River redband trout) and S. irideus (coastal rainbow trout). Steelhead are an anadromous form of rainbow trout that migrate between lakes and rivers and the ocean, and are also known as steelhead salmon or ocean trout.
+
+Steelhead are raised in many countries throughout the world. Since the 1950s, production has grown exponentially, particularly in Europe and recently in Chile. Worldwide, in 2007, 604,695 tonnes of farmed steelhead were harvested, with a value of $2.59 billion.[108] The largest producer is Chile. In Chile and Norway, the ocean-cage production of steelhead has expanded to supply export markets. Inland production of rainbow trout to supply domestic markets has increased strongly in countries such as Italy, France, Germany, Denmark, and Spain. Other significant producing countries include the United States, Iran, Germany, and the UK.[108] Rainbow trout, including juvenile steelhead in fresh water, routinely feed on larval, pupal, and adult forms of aquatic insects (typically caddisflies, stoneflies, mayflies, and aquatic dipterana). They also eat fish eggs and adult forms of terrestrial insects (typically ants, beetles, grasshoppers, and crickets) that fall into the water. Other prey include small fish up to one-third of their length, crayfish, shrimp, and other crustaceans. As rainbow trout grow, the proportion of fish consumed increases in most populations. Some lake-dwelling forms may become planktonic feeders. In rivers and streams populated with other salmonid species, rainbow trout eat varied fish eggs, including those of salmon, brown and cutthroat trout, mountain whitefish, and the eggs of other rainbow trout. Rainbows also consume decomposing flesh from carcasses of other fish. Adult steelhead in the ocean feed primarily on other fish, squid, and amphipods.[109] Cultured steelhead are fed a diet formulated to closely resemble their natural diet that includes fish meal, fish oil, vitamins and minerals, and the carotenoid asthaxanthin for pigmentation.
+
+The steelhead is especially susceptible to enteric redmouth disease. Considerable research has been conducted on redmouth disease, as its implications for steelhead farmers are significant. The disease does not affect humans.[110]
+Coho salmon[edit]
+Male ocean phase Coho salmon
+
+The Coho salmon[14] is the state animal of Chiba, Japan.[failed verification]
+
+Coho salmon mature after only one year in the sea, so two separate broodstocks (spawners) are needed, alternating each year.[dubious – discuss] Broodfish are selected from the salmon in the seasites and transferred to freshwater tanks for maturation and spawning.[14]
+
+Worldwide, in 2007, 115,376 tonnes of farmed Coho salmon were harvested with a value of $456 million.[111] Chile, with about 90 percent of world production, is the primary producer with Japan and Canada producing the rest.[14]
+Chinook salmon[edit]
+Male ocean-phase Chinook
+Male freshwater-phase Chinook
+
+Chinook salmon are the state fish of Oregon, and are known as "king salmon" because of their large size and flavourful flesh. Those from the Copper River in Alaska are particularly known for their color, rich flavor, firm texture, and high omega-3 oil content.[112] Alaska has a long-standing ban on finfish aquaculture that was enacted in 1989. (Alaska Stat. § 16.40.210[113])
+
+Worldwide, in 2007, 11,542 tonnes (1,817,600 st) of farmed Chinook salmon were harvested with a value of $83 million.[114] New Zealand is the largest producer of farmed king salmon, accounting for over half of world production (7,400 tonnes in 2005).[115] Most of the salmon are farmed in the sea (mariculture) using a method sometimes called sea-cage ranching, which takes place in large floating net cages, about 25 m across and 15 m deep, moored to the sea floor in clean, fast-flowing coastal waters. Smolt (young fish) from freshwater hatcheries are transferred to cages containing several thousand salmon, and remain there for the rest of their lives. They are fed fishmeal pellets high in protein and oil.[115]
+
+Chinook salmon are also farmed in net cages placed in freshwater rivers or raceways, using techniques similar to those used for sea-farmed salmon. A unique form of freshwater salmon farming occurs in some hydroelectric canals in New Zealand. A site in Tekapo, fed by fast, cold waters from the Southern Alps, is the highest salmon farm in the world, 677 m (2,221 ft) above sea level.[116]
+
+Before they are killed, cage salmon are sometimes anaesthetised with a herbal extract. They are then spiked in the brain. The heart beats for a time as the animal is bled from its sliced gills. This method of relaxing the salmon when it is killed produces firm, long-keeping flesh.[115] Lack of disease in wild populations and low stocking densities used in the cages means that New Zealand salmon farmers do not use antibiotics and chemicals that are often needed elsewhere.[117]
+Timeline[edit]
+
+    1527: The life history of the Atlantic salmon is described by Hector Boece of the University of Aberdeen, Scotland.[81]
+    1763: Fertilization trials for Atlantic salmon take place in Germany. Later biologists refined these in Scotland and France.[81]
+    1854: Salmon spawing beds and rearing ponds built along the bank of a river by the Dohulla Fishery, Ballyconneely, Ireland.[118]
+    1864: Hatchery raised Atlantic salmon fry were released in the River Plenty, Tasmania in a failed attempt to establish a population in Australia[119]
+    1892: Hatchery raised Atlantic salmon fry were released in the Umkomass river in South Africa in a failed attempt to establish a population in Africa.[120]
+    Late 19th century: Salmon hatcheries are used in Europe, North America, and Japan to enhance wild populations.
+    1961: Hatchery raised Atlantic salmon fry were released in the rivers of the Falkland Islands in a failed attempt to establish a population in the South Atlantic.[121]
+    Late 1960s: First salmon farms established in Norway and Scotland.
+    1970: Hatchery raised Atlantic salmon fry were released in the rivers of the Kerguelen Islands in a failed attempt to establish a population in the Indian Ocean.[122]
+    Early 1970s: Salmon farms established in North America.
+    1975: Gyrodactylus, a small monogenean parasite, spreads from Norwegian hatcheries to wild salmon, probably by means of fishing gear, and devastates some wild salmon populations.[38]
+    Late 1970s: Salmon farms established in Chile and New Zealand.
+    1984: Infectious salmon anemia, a viral disease, is discovered in a Norwegian salmon hatchery. Eighty percent of the involved fish die.
+    1985: Salmon farms established in Australia.
+    1987: First reports of escaped Atlantic salmon being caught in wild Pacific salmon fisheries.
+    1988: A storm hits the Faroe Islands releasing millions of Atlantic salmon.
+    1989: Furunculosis, a bacterial disease, spreads through Norwegian salmon farms and wild salmon.
+    1996: World farmed salmon production exceeds wild salmon harvest.
+    2007: A 10-square-mile (26 km2) swarm of Pelagia noctiluca jellyfish wipes out a 100,000 fish salmon farm in Northern Ireland.[123]
+    2019: The first salmon fish farm in the Middle East is established in the United Arab Emirates.[124]
+
+In popular culture[edit]
+
+    Chapter 14 of Paul Torday's 2007 novel Salmon Fishing in the Yemen includes a description of a visit to the "McSalmon Aqua Farms" where salmon are raised caged in a sea loch in Scotland.
