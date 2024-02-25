@@ -51,6 +51,7 @@ Output:
 ```output
  There are several species of fish that are colloquially called "salmon" but are not true salmon. The Danube salmon, huchen is a large freshwater salmonid closely related (from the same subfamily) to the seven species of salmon above, but others are fishes of unrelated orders, given the common name "salmon" simply due to similar shapes, behaviors and niches occupied.
 ```
+You can create different databases and rag folders to create different experts.
 
 ## License
 
