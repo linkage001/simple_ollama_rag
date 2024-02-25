@@ -53,6 +53,15 @@ Output:
 ```
 You can create different databases and rag folders to create different experts.
 
+A file structure like this:
+```.
+├── db
+├── rag_data
+├── simple_ollama_rag
+├── example.py
+```
+Will also work fine if you want to do ```from simple_ollama_rag import SimpleOllamaRag``` and use it in a folder.
+
 ## License
 
 MIT
