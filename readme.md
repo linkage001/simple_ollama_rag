@@ -3,10 +3,12 @@ simple_ollama_rag is a simple interface for using Ollama with LangChain's RAGCha
 ## Installation
 
 ```bash
-pip install simple_ollama_rag
+git clone https://github.com/linkage001/simple_ollama_rag.git
+cd simple_ollama_rag
+pip install -r requirements.txt
 ```
 
-## Usage (db has a copy of the salmon article from Wikipedia)
+## Usage (db on my local had a copy of the salmon article from Wikipedia)
 
 Create the db and rag_data directories. Put your text files in the rag_data folder.
 
