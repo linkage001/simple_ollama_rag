@@ -58,6 +58,8 @@ Output:
 ```
 You can create different databases and rag folders to create different experts.
 
+If you already have data on the persist directory it will not be overwritten, you need to delete it or change de directory to create a new vector store.
+
 ## License
 
 MIT for all code. The rag_data contains wikipedia data, so the wikipedia licence for all files inside that folder.
