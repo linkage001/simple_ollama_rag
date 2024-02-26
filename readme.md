@@ -1,6 +1,11 @@
 simple_ollama_rag is a simple interface for using Ollama with LangChain's RAGChain.
 
 ## Installation
+Using pip:
+```bash
+pip install simple_ollama_rag
+```
+Manual:
 
 ```bash
 git clone https://github.com/linkage001/simple_ollama_rag.git
