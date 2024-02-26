@@ -64,4 +64,4 @@ Will also work fine if you want to do ```from simple_ollama_rag import SimpleOll
 
 ## License
 
-MIT
+MIT for all code. The rag_data contains wikipedia data, so the wikipedia licence for all files inside that folder.
