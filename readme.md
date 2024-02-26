@@ -47,7 +47,7 @@ so_rag = SimpleOllamaRag(
 so_rag.load_vectorstore()
 
 # Ask questions
-question = 'What are are not true salmon?'
+question = 'What are not true salmon?'
 response = so_rag.rag_chain(question)
 print(response["message"]["content"])
 
