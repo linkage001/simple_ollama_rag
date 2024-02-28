@@ -14,7 +14,7 @@ inference_model = "phi"
 tokenizer_semantic_chunk = "bert-base-uncased"
 embeddings_model = "nomic-embed-text"
 
-
+# TODO: Create a config.py file with the values below
 print("Inference Config:", inference_config)
 print("Persist Directory:", persist_directory)
 print("Path RAG Data:", rag_data_directory)
