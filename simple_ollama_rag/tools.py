@@ -1,6 +1,13 @@
 import os
+from time import time
 
-
+def decorator_timer(some_function):
+    def wrapper(*args, **kwargs):
+        t1 = time()
+        result = some_function(*args, **kwargs)
+        end = time()-t1
+        return result, end
+    return wrapper
 def format_docs(docs):
     return "\n\n".join(doc.page_content for doc in docs)
 

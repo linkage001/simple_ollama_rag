@@ -1,7 +1,10 @@
 .venv
+.idea
 *.pyc
 *.egg-info
 dist
 build
 __pycache__
 .git
+db/*
+rag_data/*

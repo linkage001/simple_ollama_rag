@@ -6,7 +6,7 @@ so_rag = SimpleOllamaRag(
     tokenizer_semantic_chunk="bert-base-uncased",
     persist_directory="db",
     rag_data_directory="rag_data",
-    max_tokens_embeddings=100,
+    max_tokens_embeddings=500,
     inference_config={"stop": ["\n"]},
 )
 so_rag.load_vectorstore()

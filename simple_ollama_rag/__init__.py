@@ -1,11 +1,13 @@
 from langchain_community.embeddings import OllamaEmbeddings
 from .inference_tools import rag_chain
 from .vectordb_tools import load_vectorstore
+from .tools import decorator_timer
+from .tools import decorator_timer
 
 
 class SimpleOllamaRag:
     def __init__(self, inference_model, embeddings_model, tokenizer_semantic_chunk, rag_data_directory,
-                 persist_directory, max_tokens_embeddings=100, inference_config=None):
+                 persist_directory, max_tokens_embeddings=100, inference_config=None, create_hashtags=False):
         if inference_config is None:
             inference_config = {}
         self.vectorstore = None
@@ -18,12 +20,20 @@ class SimpleOllamaRag:
         self.persist_directory = persist_directory
         self.max_tokens_embeddings = max_tokens_embeddings
         self.inference_config = inference_config
+        self.create_hashtags = create_hashtags
 
-    def rag_chain(self, question):
+
+    @decorator_timer
+    def rag_chain(self, question, system=None, silent=True):
         retriever = self.retriever
         inference_model = self.inference_model
         inference_config = self.inference_config
-        return rag_chain(question, retriever, inference_model, inference_config)
+        create_hashtags = self.create_hashtags
+        (formatted_prompt, result), exe_time =  rag_chain(question, retriever, inference_model, inference_config, system, create_hashtags)
+        if not silent:
+            print(formatted_prompt)
+            print(f'Time spent: {exe_time} seconds')
+        return result
 
     def load_vectorstore(self, silent=True):
         tokenizer_semantic_chunk = self.tokenizer_semantic_chunk
