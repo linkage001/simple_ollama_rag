@@ -2,6 +2,7 @@ simple_ollama_rag is a simple interface for using Ollama with LangChain's RAGCha
 
 ## Updates:
 Better support for large files
+
 Better logging
 
 ## Installation
