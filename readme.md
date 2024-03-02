@@ -1,3 +1,5 @@
+![photo_2024-03-03_02-45-00](https://github.com/linkage001/simple_ollama_rag/assets/12001546/2f685e45-977f-467c-a1b7-a545beaaba6c)
+
 simple_ollama_rag is a simple interface for using Ollama with LangChain's RAGChain.
 
 ## Updates:
